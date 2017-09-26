@@ -1,0 +1,17 @@
+body{
+  margin: 10px 50px 10px 50px;
+  color: Yellow;
+  font-family: "Libre Barcode 39 Text";
+  background-image: url("http://cdn.surfer.com/uploads/2017/06/IB.jpg");
+}
+h1, h2, h3, h4, h5, h6{
+  font-family: "Wendy One";
+  text-align: center;
+}
+img{
+  width: 200px;
+}
+div{
+  float: left;
+  margin: 5%;
+}
